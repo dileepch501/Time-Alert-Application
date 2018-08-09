@@ -1,2 +1,2 @@
-set remainders here;
+set remainders here like this format;
 13.46:time for lunch;
